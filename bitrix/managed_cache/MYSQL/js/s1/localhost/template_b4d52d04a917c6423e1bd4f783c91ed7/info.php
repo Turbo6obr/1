@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/localhost/js/jquery.sudoSlider.min.js" => "150524696022570","/local/templates/localhost/js/myscripts.js" => "15065917702129",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
